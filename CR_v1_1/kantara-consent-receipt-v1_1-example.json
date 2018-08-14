@@ -1,0 +1,99 @@
+{
+  "version": "KI-CR-v1.1.0",
+  "jurisdiction": "DW",
+  "consentTimestamp": 1510592400,
+  "collectionMethod": "Web Subscription Form with opt-in for marketing",
+  "consentReceiptID": "c1befd3e-b7e5-4ea6-8688-e9a565aade21",
+  "publicKey": "04:a3:1d:40:53:f0:4b:f1:f9:1b:b2:3a:83:a9:d1:\r\n40:02:cc:31:b6:4a:77:bf:5e:a0:db:4f:ea:d2:07:\r\nc4:23:57:6f:83:2c:3d:3e:8d:e7:02:71:60:54:01:\r\nf4:6a:fb:a2:1e:8b:42:53:33:78:68:d9:7d:5e:b2:\r\ncc:0b:f8:a1:bf",
+  "language": "en",
+  "piiPrincipalId": "Bowden Jeffries",
+  "piiControllers": [
+    {
+      "piiController": "Ankh-Morpork Times",
+      "contact": "William De Worde",
+      "address": {
+        "streetAddress": "Gleam Street",
+        "addressCountry": "DW"
+      },
+      "email": "william@times.ankh-morpork.xyz",
+      "phone": "(555) 555-DISC (3429)"
+    }
+  ],
+  "policyUrl": "https://times.ankh-morpork.xzy/privacy_2017",
+  "services": [
+    {
+      "service": "Digital Subscription and News Alerts",
+      "purposes": [
+        {
+          "purpose": "To provide contracted services",
+          "purposeCategory": [
+            "2 - Contracted Service"
+          ],
+          "consentType": "EXPLICIT",
+          "piiCategory": [
+            "1 - Biographical",
+            "2 - Contact",
+            "4 - Communications/Social",
+            "7 - Financial"
+          ],
+          "primaryPurpose": true,
+          "termination": "Subscription end date + 1 year",
+          "thirdPartyDisclosure": true,
+          "thirdPartyName": "The Ankh-morpork Deadbeat Debt Collectors Society"
+        },
+        {
+          "purpose": "To personalize service experience",
+          "purposeCategory": [
+            "5 - Personalize Experience"
+          ],
+          "consentType": "EXPLICIT",
+          "piiCategory": [
+            "1 - Biographical",
+            "2 - Contact",
+            "4 - Communications/Social"
+          ],
+          "primaryPurpose": false,
+          "termination": "Subscription end date + 1 year",
+          "thirdPartyDisclosure": false
+        },
+        {
+          "purpose": "To market services",
+          "purposeCategory": [
+            "6 - Marketing"
+          ],
+          "consentType": "EXPLICIT",
+          "piiCategory": [
+            "2 - Contact"
+          ],
+          "primaryPurpose": false,
+          "termination": "Subscription end date + 1 year",
+          "thirdPartyDisclosure": false,
+          "thirdPartyName": "DiscWorld Octarine Programmatic Ad Agency"
+        },
+        {
+          "purpose": "Complying with legal obligations",
+          "purposeCategory": [
+            "12 - Legally Required Data Retention",
+            "13 - Required by Law Enforcement or Government"
+          ],
+          "consentType": "N/A",
+          "piiCategory": [
+            "1 - Biographical",
+            "2 - Contact",
+            "4 - Communications/Social",
+            "7 - Financial"
+          ],
+          "primaryPurpose": false,
+          "termination": "N/A",
+          "thirdPartyDisclosure": true,
+          "thirdPartyName": "Requesting legal authority"
+        }
+      ]
+    }
+  ],
+  "sensitive": true,
+  "spiCat": [
+    "1 - Biographical",
+    "7 - Financial"
+  ]
+}
