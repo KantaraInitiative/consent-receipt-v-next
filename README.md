@@ -1,5 +1,5 @@
 The [categorizaton flow chart for new issues](https://share.mindmanager.com/#publish/b-DWOcuKGnVY1PXBKXTpL0-DQOeqmZMGfGUAPiC5 ) logged here is:
-![github categorization]( /gihub%20categorization%20flow.png )
+![github categorization]( /github%20categorization%20flow.png )
 
 
 =================
