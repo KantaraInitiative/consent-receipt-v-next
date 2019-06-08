@@ -8,8 +8,40 @@ assignees: ''
 ---
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Use Case Name
+*(A short name)*
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Scope:
+*(The name of the system or business area or business function operated)*
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Context:
 *(Text about the goal in its operational context)*
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Primary Actor:
+*(The primary actor name or role)*
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Stakeholders & Interests
+*(List of all the stakeholders and their interests in the system operation. Stakeholders include actors that interact with the system and others who do not interact with the system.)*
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Minimal Guarantees
+*(An optional section listing the minimal guarantees)*
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Success Guarantees
+*(An optional section listing the success guarantees)*
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Preconditions:
+*(What must be true before this use case can be triggered)*
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Triggers
+*(What causes the main scenario to start)*
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Main Success Scenario:
@@ -18,37 +50,5 @@ Main Success Scenario:
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Secondary Success Scenario:
 *(A second brief list of what the actors do when things don't go down the main path - includes alternative paths and major failure conditions.)*
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Minimal Guarantees
-*(An optional section listing the minimal guarantees)*
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Preconditions:
-*(What must be true before this use case can be triggered)*
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Primary Actor:
-*(The primary actor name or role)*
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Scope:
-*(The name of the system or business area or business function operated)*
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Stakeholders & Interests
-*(List of all the stakeholders and their interests in the system operation. Stakeholders include actors that interact with the system and others who do not interact with the system.)*
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Success Guarantees
-*(An optional section listing the success guarantees)*
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Triggers
-*(What causes the main scenario to start)*
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Use Case Name
-*(A short name)*
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
